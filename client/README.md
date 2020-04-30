@@ -1,0 +1,1 @@
+NOTE: If you test android on device you should update server url in 'www/js/constants.js' that will referenced to server that will accessible via internet.
